@@ -1,4 +1,4 @@
-package edu.alexandre.primeirasemana;
+package edu.alexandre.anatomiaDasClasses;
 public class MinhaClasse {
     public static void main(String [] args){
         System.out.println("Meu primeiro código em java?");

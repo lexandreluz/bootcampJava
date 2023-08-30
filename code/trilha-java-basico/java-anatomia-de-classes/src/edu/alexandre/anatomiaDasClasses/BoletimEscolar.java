@@ -1,4 +1,4 @@
-package edu.alexandre.primeirasemana;
+package edu.alexandre.anatomiaDasClasses;
 public class BoletimEscolar {
     public static void main(String [] args){
         int mediaFinal = 10;
