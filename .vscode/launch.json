@@ -2,11 +2,23 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "AboutMeII",
+            "request": "launch",
+            "mainClass": "AboutMeII",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
             "name": "teste",
             "type": "java",
             "request": "launch",
             "mainClass": "AboutMe",
-            "args": ["ALEXANDRE", "LUZ", "25", "1.89"]
+            "args": [
+                "ALEXANDRE",
+                "LUZ",
+                "25",
+                "1.89"
+            ]
         }
     ]
 }
