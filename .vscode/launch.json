@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "teste",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": ["ALEXANDRE", "LUZ", "25", "1.89"]
+        }
+    ]
+}
