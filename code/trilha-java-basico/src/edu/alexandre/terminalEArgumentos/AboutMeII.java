@@ -1,3 +1,4 @@
+package edu.alexandre.terminalEArgumentos;
 import java.util.Locale;
 import java.util.Scanner;
 
