@@ -2,6 +2,11 @@ package edu.contaBanco;
 import java.util.Locale;
 import java.util.Scanner;
 
+/*
+ * Classe criada para adicionar 
+ * os dados do usuário
+ */
+
 public class DadosCliente{
     Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
     String nomeCliente;
@@ -18,6 +23,9 @@ public class DadosCliente{
         numeroConta = scanner.nextInt();
         System.out.println("Insira o saldo inicial: ");
         saldo = scanner.nextDouble();
-        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numeroConta + " e seu saldo " + saldo +" já está disponível para saque");
+        System.out.println("\n------------------------------------------------------------------------------------");
+        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", \nconta " + numeroConta + " e seu saldo R$" + saldo +" já está disponível para saque");
+        System.out.println("--------------------------------------------------------------------------------------");
+
     }
 }
