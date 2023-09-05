@@ -4,6 +4,6 @@ public class ExemploForArray {
     
         for (int x=0; x<alunos.length; x++) {
             System.out.println("O aluno no indice x=" + x + " é " + alunos[x]);
-        }
     }
 }
+} 
