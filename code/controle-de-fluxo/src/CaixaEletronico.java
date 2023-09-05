@@ -1,4 +1,3 @@
-// CaixaEletronico.java
 //  Condicional Simples 
 public class CaixaEletronico {
     public static void main(String[] args) {

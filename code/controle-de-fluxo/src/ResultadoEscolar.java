@@ -1,4 +1,3 @@
-// ResultadoEscolar.java
 // Condicional Composta 
 public class ResultadoEscolar {
     public static void main(String[] args) {
