@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ControleSalario",
+            "request": "launch",
+            "mainClass": "src.edu.processoSeletivo.ControleSalario",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
+            "name": "ControleSalario",
+            "request": "launch",
+            "mainClass": "ControleSalario",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "ExemploDoWhile",
