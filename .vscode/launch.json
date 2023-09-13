@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "src.edu.processoSeletivo.ProcessoSeletivo",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
             "name": "ControleSalario",
             "request": "launch",
             "mainClass": "src.edu.processoSeletivo.ControleSalario",
