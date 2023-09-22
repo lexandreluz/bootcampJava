@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EquilibrandoSaldo",
+            "request": "launch",
+            "mainClass": "EquilibrandoSaldo",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
             "name": "ProcessoSeletivo",
             "request": "launch",
             "mainClass": "src.edu.processoSeletivo.ProcessoSeletivo",
