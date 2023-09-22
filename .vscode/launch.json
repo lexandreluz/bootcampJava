@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BancoApp",
+            "request": "launch",
+            "mainClass": "BancoApp",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
             "name": "ExemploBanco",
             "request": "launch",
             "mainClass": "ExemploBanco",
