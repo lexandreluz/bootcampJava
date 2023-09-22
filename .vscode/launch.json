@@ -13,6 +13,13 @@
             "name": "ProcessoSeletivo",
             "request": "launch",
             "mainClass": "src.edu.processoSeletivo.ProcessoSeletivo",
+            "projectName": "bootcampJava_97e7cf6a"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "src.edu.processoSeletivo.ProcessoSeletivo",
             "projectName": "bootcampJava_f91c5c17"
         },
         {
