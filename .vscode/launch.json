@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OrganizandoAtivos",
+            "request": "launch",
+            "mainClass": "OrganizandoAtivos",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
             "name": "EquilibrandoSaldo",
             "request": "launch",
             "mainClass": "EquilibrandoSaldo",
