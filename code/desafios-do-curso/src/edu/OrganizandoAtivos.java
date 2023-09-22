@@ -38,5 +38,6 @@ public class OrganizandoAtivos {
     for (String ativo : ativos) {
         System.out.println(ativo);
     }
+    scanner.close();
   }
 }
