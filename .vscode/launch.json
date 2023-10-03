@@ -5,6 +5,13 @@
             "type": "java",
             "name": "Estabelecimento",
             "request": "launch",
+            "mainClass": "lanchonete.Estabelecimento",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
+            "name": "Estabelecimento",
+            "request": "launch",
             "mainClass": "Estabelecimento",
             "projectName": "bootcampJava_f91c5c17"
         },
