@@ -21,11 +21,11 @@ public class Cozinheiro {
 	private void prepararVitamina() {
 		System.out.println("PREPARANDO SUCO");
 	}
-	public void prepararCombo() {
+	private void prepararCombo() {
 		prepararLanche();
 		prepararVitamina();
 	}
-	public void selecionarIngredientesLanche() {
+	private void selecionarIngredientesLanche() {
 		System.out.println("SELECIONADO O PÃO, SALADA, OVO E CARNE");
 	}
 	private void selecionarIngredientesVitamina() {
@@ -37,16 +37,16 @@ public class Cozinheiro {
 	private void baterVitaminaLiquidificador() {
 		System.out.println("BATENDO VITAMINA NO LIQUIDIFICADOR");
 	}
-	public void fritarIngredientesLanche() {
+	private void fritarIngredientesLanche() {
 		System.out.println("FRITANDO A CARNE E OVO PARA O HAMBÚRGUER");
 	}
-	public void pedirParaTrocarGas(Atendente meuAmigo) {
+	private void pedirParaTrocarGas(Atendente meuAmigo) {
 		meuAmigo.trocarGas();
 	}
-	public void pedirParaTrocarGas(Almoxarife meuAmigo) {
+	private void pedirParaTrocarGas(Almoxarife meuAmigo) {
 		meuAmigo.trocarGas();
 	}
-	public void pedirIngredientes(Almoxarife almoxarife) {
+	private void pedirIngredientes(Almoxarife almoxarife) {
 		almoxarife.entregarIngredientes();
 	}
 }
