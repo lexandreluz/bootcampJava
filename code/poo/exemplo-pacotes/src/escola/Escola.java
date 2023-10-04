@@ -2,10 +2,10 @@ package escola;
 
 public class Escola {
 	public static void main(String[] args) {
-		Aluno felipe = new Aluno();
-		felipe.setNome("Felipe");
-		felipe.setIdade(8);
+		Aluno aluno = new Aluno();
+		aluno.setNome("Bernardo Ravi");
+		aluno.setIdade(1);
 		
-		System.out.println("O aluno " + felipe.getNome() + " tem " + felipe.getIdade() + " anos ");	
+		System.out.println("O aluno " + aluno.getNome() + " tem " + aluno.getIdade() + " anos ");	
 	}
 }
