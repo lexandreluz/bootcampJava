@@ -14,7 +14,9 @@ public class Cliente {
 	private void consultarSaldoAplicativo() {
 		System.out.println("CONSULTANDO SALDO NO APLICATIVO");
 	}
-	private void pegarPedidoBalcao() {
-		System.out.println("PEGANDO O PEDIDO NO BALCÃO");
-	}
+	/** ATRIBUTOS NÃO USADOS
+	 * private void pegarPedidoBalcao() {s
+	 * 		System.out.println("PEGANDO O PEDIDO NO BALCÃO");
+	 * }
+	 */
 }

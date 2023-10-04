@@ -1,5 +1,5 @@
 package lanchonete.atendimento.cozinha;
-import lanchonete.atendimento.Atendente;
+//import lanchonete.atendimento.Atendente;
 
 public class Cozinheiro {
 	//pode ser default
@@ -15,17 +15,17 @@ public class Cozinheiro {
 		adicionarLancheNoBalcao();
 		adicionarSucoNoBalcao();
 	}
-	private void prepararLanche() {
+	/** ATRIBUTOS NÃO USADOS
+	 * private void prepararLanche() {
 		System.out.println("PREPARANDO LANCHE TIPO HAMBÚRGUER");
 	}
 	private void prepararVitamina() {
 		System.out.println("PREPARANDO SUCO");
 	}
-	private void prepararCombo() {
+	 * private void prepararCombo() {
 		prepararLanche();
 		prepararVitamina();
-	}
-	private void selecionarIngredientesLanche() {
+	 * private void selecionarIngredientesLanche() {
 		System.out.println("SELECIONADO O PÃO, SALADA, OVO E CARNE");
 	}
 	private void selecionarIngredientesVitamina() {
@@ -49,4 +49,6 @@ public class Cozinheiro {
 	private void pedirIngredientes(Almoxarife almoxarife) {
 		almoxarife.entregarIngredientes();
 	}
+	 */
+	
 }
