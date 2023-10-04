@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Escola",
+            "request": "launch",
+            "mainClass": "escola.Escola",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
             "name": "Estabelecimento",
             "request": "launch",
             "mainClass": "lanchonete.Estabelecimento",
