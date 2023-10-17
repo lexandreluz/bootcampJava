@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ComputadorPedrinho",
+            "request": "launch",
+            "mainClass": "ComputadorPedrinho",
+            "projectName": "bootcampJava_995dff7d"
+        },
+        {
+            "type": "java",
             "name": "SistemaIbge",
             "request": "launch",
             "mainClass": "estados.SistemaIbge",
