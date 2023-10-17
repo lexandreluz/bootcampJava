@@ -7,8 +7,6 @@ public class MSNMessenger {
 		
 		//depois de enviada, salva o histórico da mensagem
 		salvarHistoricoMensagem();
-		
-		
 	}
 	public void receberMensagem() {
 		System.out.println("Recebendo mensagem");
