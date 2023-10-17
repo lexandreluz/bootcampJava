@@ -6,6 +6,13 @@
             "name": "ComputadorPedrinho",
             "request": "launch",
             "mainClass": "ComputadorPedrinho",
+            "projectName": "bootcampJava_f91c5c17"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedrinho",
+            "request": "launch",
+            "mainClass": "ComputadorPedrinho",
             "projectName": "bootcampJava_995dff7d"
         },
         {
